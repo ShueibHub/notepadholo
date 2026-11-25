@@ -129,7 +129,7 @@ fun SettingsScreen(vm: NotesViewModel) {
 
             Spacer(Modifier.height(16.dp))
 
-            // ── البيانات ──
+            // ──    يرحم والديكم لا تغيروا البيانات حتى المبتدئين ما يلخبطوا   ──
             SectionCard(stringResource(R.string.data)) {
                 SettingRow(
                     icon = AppIcons.Copy,
